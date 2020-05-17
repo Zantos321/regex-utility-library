@@ -93,7 +93,7 @@ If the user's email does not meet these criteria, show an error message: "Please
 
 ### On `all-cards.html`
 
-When the user enters text into the "Search for a word" input and then clicks "Search" we should console.log what the user entered. However, we want to "sanitize" the user's input. Our API will only accepts alphabetical words separated by a space. Follow these steps to properly sanitize their input:
+When the user enters text into the "Search for a word" input and then clicks "Search" we should console.log what the user entered. However, we want to "sanitize" the user's input. Our API will only accept alphabetical words separated by a space. Follow these steps to properly sanitize their input:
 
 1. Replace all non-alphabetical characters with spaces.
 2. All whitespace with 2 or more spaces should be converted to single spaces.
