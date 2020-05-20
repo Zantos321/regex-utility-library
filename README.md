@@ -77,6 +77,8 @@ As you complete each one, create simple utility functions that demonstrate a wor
 
 ## Step 3: Apply your learning to White Bear
 
+**First, use [Regex101.com](https://regex101.com/) to test your regular expressions against your strings. Be sure you select "ECMAScript (JavaScript)" on the left-hand side.** This will make your life easier.
+
 ### On `index.html`
 
 When a user creates an email under "Nice to meet you" lets add some new logic to our email validation when the user clicks "Let's go!":
